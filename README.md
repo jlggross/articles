@@ -3,6 +3,7 @@ This repository has a collection of all articles I've written for different webs
 
 The articles encompass topics on Operational Systems, Linux/Shell, Python, Data Science libraries for data manipulation (numpy, pandas) and data visualization (matplotlib, seaborn). Doing so is a way I found to exercise my knowledge on these subjects are share what I find interesting with the community.
 
+* 2020-07-27 - Como coletar dados sobre opções da bolsa de valores automaticamente - [[link]](https://www.linkedin.com/pulse/como-coletar-dados-sobre-op%25C3%25A7%25C3%25B5es-da-bolsa-de-valores-jo%25C3%25A3o-gross)
 * 2020-07-27 - Como instalar o Selenium webdriver no Windows 10 - [[link]](https://www.linkedin.com/pulse/como-instalar-o-selenium-webdriver-windows-10-jo%25C3%25A3o-gross/)
 * 2020-07-27 - Como instalar o Chromedriver no Windows 10 [[link]](https://www.linkedin.com/pulse/como-instalar-o-chromedriver-windows-10-jo%25C3%25A3o-gross)
 * 2020-07-27 - Como instalar o Python 3 no Windows 10 [[link]](https://www.linkedin.com/pulse/como-instalar-o-python-3-windows-10-jo%25C3%25A3o-gross/)

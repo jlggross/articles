@@ -3,6 +3,7 @@ This repository has a collection of all articles I've written for different webs
 
 The articles encompass topics on Operational Systems, Linux/Shell, Python, Data Science libraries for data manipulation (numpy, pandas) and data visualization (matplotlib, seaborn). Doing so is a way I found to exercise my knowledge on these subjects are share what I find interesting with the community.
 
+* 2020-08-21 - Como configurar o VS Code com Anaconda e Jupyter Notebooks no Windows 10 [[link]](https://medium.com/@joaolggross/como-configurar-o-vs-code-com-anaconda-e-jupyter-notebooks-b05258bf65c1)
 * 2020-08-20 - Visualização de dados em Python, Parte 2: Gráficos Treemap Simples e Hierárquico com Ploty [[link]](https://medium.com/@joaolggross/visualiza%C3%A7%C3%A3o-de-dados-em-python-parte-2-gr%C3%A1ficos-treemap-simples-e-hier%C3%A1rquico-com-ploty-383c434ef44)
 * 2020-08-13 - Visualização de dados em Python, Parte 1: Gráficos de dispersão e distribuição com Seaborn [[link]](https://medium.com/@joaolggross/visualiza%C3%A7%C3%A3o-de-dados-em-python-parte-1-gr%C3%A1ficos-de-dispers%C3%A3o-e-distribui%C3%A7%C3%A3o-com-seaborn-c8636f0202b1)
 * 2020-08-11 - Python ‘==’ e ‘is’. Qual a diferença? [[link]](https://medium.com/@joaolggross/python-e-is-qual-a-diferen%C3%A7a-73b69dcd22e1)
